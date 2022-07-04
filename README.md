@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kushal1402
+- 👋 Hi, I’m Kushal Doshi
 - 👀 I’m interested in Coding & learning new things.
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on Websites making & Application making 
-- 📫 How to reach me Mail me on : kushalhemant2003@gmail.com
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Websites building.
+- 📫 How to reach me : kushalhemant2003@gmail.com
 
 <!---
 Kushal1402/Kushal1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
