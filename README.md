@@ -3,7 +3,7 @@ Kushal1402/Kushal1402 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey !+i'm+Kushal;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey !+i'm+Kushal;" alt="Hey i'm Kushal"/>
 <h3>🌱 A Junior Frontend developer</h3>
 <h3>💞️ I’m looking to collaborate on Websites building.</h3>
 <h3>👀 I’m interested in Coding & learning new things.</h3>
