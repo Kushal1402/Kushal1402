@@ -45,6 +45,9 @@ You can click the Preview link to take a look at your changes.
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI" width="40" height="40"/>
   </a>
+   <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+  </a>    
 </p>
 <hr>
 
