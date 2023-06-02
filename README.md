@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h3>🌱 A Junior <bold>MERN</bold> stack developer</h3>
 <h3>💞️ I’m looking to collaborate on making an amazing Websites that gives users an immersive experience .</h3>
 <h3>👀 I’m interested in Coding & learning new things .</h3>
-<h3> :handshake: Open for collaboration on every interesting project .</h3>
+<h3> :handshake: Open for collaboration on MERN stack projects .</h3>
 
 <h3>Connect with me:</h3>
 <p>
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">👨‍💻  Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,react,redux,materialui,nodejs,express,mongodb,postman,c,python,git,linux)](https://github.com/Kushal1402)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,bootstrap,tailwindcss,sass,materialui,mongodb,express,react,nodejs,babel,redux,firebase,postman,python,github,gitlab,linux,vscode)](https://github.com/Kushal1402)
 
 <hr>
 
