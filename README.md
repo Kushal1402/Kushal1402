@@ -3,7 +3,8 @@ Kushal1402/Kushal1402 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099ff&size=25&center=false&lines=Hey+i'm+Kushal;" alt="Hey i'm Kushal"/>
+<img src="./gitartwork.svg" alt="Hey i'm Kushal"/>
+<!--- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099ff&size=25&center=false&lines=Hey+i'm+Kushal;" alt="Hey i'm Kushal"/> --->
 <h3>🌱 A Junior <bold>MERN</bold> stack developer .</h3>
 <h4>👀 Here, you will find information about the technologies I work with, my projects, and how to get in touch with me. Let's dive in!</h4>
 <hr>
