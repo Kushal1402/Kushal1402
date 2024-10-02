@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">👨‍💻  Languages and Tools I’m familiar with :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,bootstrap,tailwindcss,sass,materialui,mongodb,express,react,nodejs,babel,redux,firebase,postman,python,github,gitlab,linux,vscode,markdown)](https://github.com/Kushal1402)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,bootstrap,tailwindcss,sass,materialui,mongodb,express,react,angular,nodejs,babel,redux,python,firebase,postman,github,gitlab,linux,vscode,markdown)](https://github.com/Kushal1402)
 
 <hr>
 
