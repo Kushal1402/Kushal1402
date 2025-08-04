@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">👨‍💻  Languages and Tools I’m familiar with :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,bootstrap,tailwindcss,sass,materialui,mongodb,express,react,angular,nodejs,babel,redux,python,firebase,postman,github,gitlab,linux,vscode,markdown)](https://github.com/Kushal1402)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,typescript,bootstrap,tailwindcss,sass,materialui,mongodb,express,react,nextjs,nodejs,babel,redux,vite,python,firebase,redis,postman,github,gitlab,docker,linux,vscode,markdown,vercel,notion,figma)](https://github.com/Kushal1402)
 
 <hr>
 
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr />
 
-<h3> :handshake: I’m open to exciting job opportunities,learning new things, collaborations on MERN stack projects, making an amazing Websites that gives users an immersive experience, or just having a chat about technology and coding. You can reach me through the following channels . </h3>
+<h3> :handshake: I’m open to exciting job opportunities, learning new things, collaborations on MERN stack, Python or AI projects, making an amazing Websites that gives users an immersive experience, or just having a chat about technology and coding. You can reach me through the following channels . </h3>
 
 <h3>Connect with me :</h3>
 <p>
