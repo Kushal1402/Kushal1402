@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,linux,vscode,figma,jira)](https://github.com/Kushal1402)
 <hr>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Kushal1402&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Kushal used language stats"/>
+<!-- <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Kushal1402&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Kushal used language stats"/>
 </p>
 <br>
 <br><br><br><br><br>
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kushal1402&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kushal stats" /></p>
 
-<hr />
+<hr /> -->
 
 <h4> :handshake: I'm open to exciting job opportunities, learning new things, collaborations on MERN stack, Python or AI projects, making an amazing Websites that gives users an immersive experience, or just having a chat about technology and coding. You can reach me through the following channels . </h4>
 
