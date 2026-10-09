@@ -38,13 +38,13 @@ You can click the Preview link to take a look at your changes.
 
 <h4>Connect with me :</h4>
 <p>
-  <a href="https://www.linkedin.com/in/kushaldoshi1402" target="blank">
+  <a href="https://www.linkedin.com/in/kushaldoshi14" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kushal LinkedIn" height="30" width="40" />
   </a>  
   <a href="mailto:kushalhemant2003@gmail.com" target="blank">
     <img align="center" src="https://devicons.railway.app/i/maildev.svg" alt="Kushal Instagram" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/kushal2468" target="blank">
+  <a href="https://instagram.com/kushaldoshi_14" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kushal Instagram" height="30" width="40" />
   </a>
 </p>
